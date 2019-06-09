@@ -10,6 +10,7 @@ django = "*"
 djangorestframework = "*"
 pygments = "*"
 django-extensions = "*"
+httpie = "*"
 
 [requires]
 python_version = "3.7"
